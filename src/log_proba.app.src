@@ -1,0 +1,16 @@
+{application, log_proba,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {log_proba_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    mylogger
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

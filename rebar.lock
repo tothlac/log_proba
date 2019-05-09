@@ -1,0 +1,4 @@
+[{<<"mylogger">>,
+  {git,"git@github.com:tothlac/mylogger.git",
+       {ref,"fc3a3f8ad42eccb61bb12c7b42234785d5355e7a"}},
+  0}].
